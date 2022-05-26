@@ -1,4 +1,3 @@
-import math
 from random import randint, random
 x=math.sqrt(10)
 print(x)
@@ -9,4 +8,7 @@ while True:
     print(x1)
     if(x1==20000):
         break
+<<<<<<< Updated upstream
     and to continue
+=======
+>>>>>>> Stashed changes
