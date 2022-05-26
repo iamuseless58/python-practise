@@ -9,3 +9,4 @@ while True:
     print(x1)
     if(x1==20000):
         break
+    and to continue
