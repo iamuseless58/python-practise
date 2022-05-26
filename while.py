@@ -3,7 +3,10 @@ while True:
     if(x=="hai"):
         continue
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     break
 loop
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
